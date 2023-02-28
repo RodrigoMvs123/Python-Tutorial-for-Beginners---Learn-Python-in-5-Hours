@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=t8pPdKYpowI
 
 https://raw.githubusercontent.com/RodrigoMvs123/Python-Tutorial-for-Beginners---Learn-Python-in-5-Hours/main/README.md
 
+https://github.com/RodrigoMvs123/Python-Tutorial-for-Beginners---Learn-Python-in-5-Hours/blame/main/README.md
+
 https://gitlab.com/RodrigoMvs1231/cicd/-/tree/main 
 
 Web Development 
